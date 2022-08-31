@@ -9,14 +9,14 @@ duration:"2:54"
 {
     imageLink:"./assets/chase atlantic.jpg",
     title:"Friends",
-    album:"Friends",
-    duration:"2:53"
+    album:"Nostalgia",
+    duration:"3:51"
 },
 {
     imageLink:"./assets/theweeknd.jpg",
     title:"The hills",
-    album:"The hills",
-    duration:"3:10"
+    album:"Beauty behind madness",
+    duration:"4:03"
 },
 ];
 
