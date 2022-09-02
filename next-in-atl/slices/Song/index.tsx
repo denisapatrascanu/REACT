@@ -16,7 +16,7 @@ interface IImage{
   url: string;
 }
 
-interface Iprimary {
+export interface IPrimary {
   title:string;
   album:string;
   cover:IImage;
@@ -26,11 +26,11 @@ interface Iprimary {
   }
 }
 
-interface IProps {
-  slice: {primary: Iprimary};
+export interface IProps {
+  slice: {primary: IPrimary};
 }
 
-const Song = ({ slice } : IProps) => {
+ const Song = ({ slice } : IProps) => {
 
 
   return (
